@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrays-and-string-manipulation/arrays-and-string-manipulation.iml" filepath="$PROJECT_DIR$/arrays-and-string-manipulation/arrays-and-string-manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/core-java-concepts.iml" filepath="$PROJECT_DIR$/.idea/core-java-concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-syntax-and-data-types/java-syntax-and-data-types.iml" filepath="$PROJECT_DIR$/java-syntax-and-data-types/java-syntax-and-data-types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods-and-parameter-passing/methods-and-parameter-passing.iml" filepath="$PROJECT_DIR$/methods-and-parameter-passing/methods-and-parameter-passing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators-and-control-structures/operators-and-control-structures.iml" filepath="$PROJECT_DIR$/operators-and-control-structures/operators-and-control-structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/package-and-access-modifiers/package-and-access-modifiers.iml" filepath="$PROJECT_DIR$/package-and-access-modifiers/package-and-access-modifiers.iml" />
+    </modules>
+  </component>
+</project>
